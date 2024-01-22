@@ -18,6 +18,6 @@ public class HelloController {
 		return "Hello Spring2";
 	}
 	
-	
+	//test git merge and pull-1
 
 }
