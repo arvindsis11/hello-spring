@@ -12,5 +12,12 @@ public class HelloController {
 	public String printMsg() {
 		return "Hello Spring";
 	}
+	
+	@GetMapping("/demo2")
+	public String printMsg2() {
+		return "Hello Spring2";
+	}
+	
+	
 
 }
