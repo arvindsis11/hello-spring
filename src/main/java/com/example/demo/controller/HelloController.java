@@ -17,7 +17,7 @@ public class HelloController {
 	public String printMsg2() {
 		return "Hello Spring2";
 	}
-	
+	//pair extraordinier badge
 	//test git merge and pull-1
 	
 	//test 2 git pull request
