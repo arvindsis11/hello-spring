@@ -14,7 +14,7 @@ public class HelloController {
 	}
 	
 	@GetMapping("/demo2")
-	public String printMsg2() {
+	public String printMsg2(String str) {
 		return "Hello Spring2";
 	}
 	//pair extraordinier badge
