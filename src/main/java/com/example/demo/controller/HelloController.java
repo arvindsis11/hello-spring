@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/api")
 public class HelloController {
-	
+	//branch A changes
 	@GetMapping("/demo")
 	public String printMsg() {
 		return "Hello Spring";
